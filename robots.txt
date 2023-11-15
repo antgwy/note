@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://note.2inf.top/sitemap.xml
