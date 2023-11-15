@@ -2,50 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>acwing on 2inf</title>
-    <link>http://note.2inf.top/tags/acwing/</link>
+    <link>https://2inf.top/note/tags/acwing/</link>
     <description>Recent content in acwing on 2inf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Sep 2021 00:03:18 +0800</lastBuildDate>
-    
-	<atom:link href="http://note.2inf.top/tags/acwing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Jun 2022 02:12:19 +0800</lastBuildDate>
+    <atom:link href="https://2inf.top/note/tags/acwing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acwing Linux 基础课 3, 4 章</title>
+      <link>https://2inf.top/note/post/acwinglinux34/</link>
+      <pubDate>Sun, 26 Jun 2022 02:12:19 +0800</pubDate>
+      <guid>https://2inf.top/note/post/acwinglinux34/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Acwing Linux 基础课 1, 2 章</title>
+      <link>https://2inf.top/note/post/acwinglinux12/</link>
+      <pubDate>Sun, 26 Jun 2022 02:12:01 +0800</pubDate>
+      <guid>https://2inf.top/note/post/acwinglinux12/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AcWing 算法提高第五章  数学知识</title>
-      <link>http://note.2inf.top/post/acwingtigao5/</link>
+      <link>https://2inf.top/note/post/acwingtigao5/</link>
       <pubDate>Tue, 21 Sep 2021 00:03:18 +0800</pubDate>
-      
-      <guid>http://note.2inf.top/post/acwingtigao5/</guid>
+      <guid>https://2inf.top/note/post/acwingtigao5/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AcWing 算法提高第四章  高级数据结构</title>
-      <link>http://note.2inf.top/post/acwingtigao4/</link>
+      <link>https://2inf.top/note/post/acwingtigao4/</link>
       <pubDate>Thu, 09 Sep 2021 23:21:30 +0800</pubDate>
-      
-      <guid>http://note.2inf.top/post/acwingtigao4/</guid>
+      <guid>https://2inf.top/note/post/acwingtigao4/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AcWing 算法提高第三章  图论</title>
-      <link>http://note.2inf.top/post/acwingtigao3/</link>
+      <link>https://2inf.top/note/post/acwingtigao3/</link>
       <pubDate>Thu, 09 Sep 2021 23:21:12 +0800</pubDate>
-      
-      <guid>http://note.2inf.top/post/acwingtigao3/</guid>
+      <guid>https://2inf.top/note/post/acwingtigao3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>AcWing 算法提高第一章  动态规划</title>
-      <link>http://note.2inf.top/post/acwingtigao1/</link>
+      <link>https://2inf.top/note/post/acwingtigao1/</link>
       <pubDate>Tue, 31 Aug 2021 18:25:29 +0800</pubDate>
-      
-      <guid>http://note.2inf.top/post/acwingtigao1/</guid>
+      <guid>https://2inf.top/note/post/acwingtigao1/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
