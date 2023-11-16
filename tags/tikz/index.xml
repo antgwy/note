@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TikZ on 2inf</title>
-    <link>https://2inf.top/note/tags/tikz/</link>
-    <description>Recent content in TikZ on 2inf</description>
+    <title>TikZ on antgwy</title>
+    <link>https://antgwy.top/note/tags/tikz/</link>
+    <description>Recent content in TikZ on antgwy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 00:17:53 +0800</lastBuildDate>
-    <atom:link href="https://2inf.top/note/tags/tikz/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://antgwy.top/note/tags/tikz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Circuitikz 学习笔记</title>
-      <link>https://2inf.top/note/post/circuitikz/</link>
+      <link>https://antgwy.top/note/post/circuitikz/</link>
       <pubDate>Thu, 24 Sep 2020 00:17:53 +0800</pubDate>
-      <guid>https://2inf.top/note/post/circuitikz/</guid>
+      <guid>https://antgwy.top/note/post/circuitikz/</guid>
       <description></description>
     </item>
   </channel>

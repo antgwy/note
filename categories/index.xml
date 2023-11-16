@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 2inf</title>
-    <link>https://2inf.top/note/categories/</link>
-    <description>Recent content in Categories on 2inf</description>
+    <title>Categories on antgwy</title>
+    <link>https://antgwy.top/note/categories/</link>
+    <description>Recent content in Categories on antgwy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Sep 2021 00:03:18 +0800</lastBuildDate>
-    <atom:link href="https://2inf.top/note/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://antgwy.top/note/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algorithm</title>
-      <link>https://2inf.top/note/categories/algorithm/</link>
+      <link>https://antgwy.top/note/categories/algorithm/</link>
       <pubDate>Tue, 21 Sep 2021 00:03:18 +0800</pubDate>
-      <guid>https://2inf.top/note/categories/algorithm/</guid>
+      <guid>https://antgwy.top/note/categories/algorithm/</guid>
       <description></description>
     </item>
     <item>
       <title>LaTeX</title>
-      <link>https://2inf.top/note/categories/latex/</link>
+      <link>https://antgwy.top/note/categories/latex/</link>
       <pubDate>Thu, 24 Sep 2020 00:17:53 +0800</pubDate>
-      <guid>https://2inf.top/note/categories/latex/</guid>
+      <guid>https://antgwy.top/note/categories/latex/</guid>
       <description></description>
     </item>
     <item>
       <title>Others</title>
-      <link>https://2inf.top/note/categories/others/</link>
+      <link>https://antgwy.top/note/categories/others/</link>
       <pubDate>Wed, 20 May 2020 17:13:29 +0800</pubDate>
-      <guid>https://2inf.top/note/categories/others/</guid>
+      <guid>https://antgwy.top/note/categories/others/</guid>
       <description></description>
     </item>
   </channel>
